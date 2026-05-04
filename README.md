@@ -19,6 +19,9 @@ Analysed 150,000+ Netflix app reviews from Kaggle to uncover insights about user
 - `clean_data.py` — Python script used to clean the data
 - `git_commands.md` — all Git commands used in this project
 
+ 📊 Live Dashboard
+[Click here to view the interactive dashboard](https://app.powerbi.com/links/AyfevSa9U6?ctid=9a5b5691-a451-49e7-93de-9c61cb04328b&pbi_source=linkShare)
+
  🔍 Key Insights
 - Nearly 48% of reviews are Negative
 - 1-star reviews are the most common (~60,000)
