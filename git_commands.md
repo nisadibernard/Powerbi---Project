@@ -2,12 +2,12 @@
 
 ## Initial Setup
 git --version
-git config --global user.name "Nisadi Bernard"
-git config --global user.email "nisadibernard@gmail.com"
+git config --global user.name Nisadi Bernard
+git config --global user.email nisadibernard@gmail.com
 
 ## Creating the Project
-mkdir powerbi-project
-cd powerbi-project
+mkdir Netflix Reviews Dashboard
+cd Netflix Reveiws Dashboard
 git init
 
 ## Connecting to GitHub
