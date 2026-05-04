@@ -2,8 +2,8 @@
 
 ## Initial Setup
 git --version
-git config --global user.name "Your Name"
-git config --global user.email "your@email.com"
+git config --global user.name "Nisadi Bernard"
+git config --global user.email "nisadibernard@gmail.com"
 
 ## Creating the Project
 mkdir powerbi-project
